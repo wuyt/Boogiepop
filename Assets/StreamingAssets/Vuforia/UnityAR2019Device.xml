@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="lock" size="0.200000 0.154992" />
+    <ImageTarget name="work" size="0.200000 0.156836" />
+    <ImageTarget name="travel" size="0.250000 0.157015" />
+    <ImageTarget name="wsgt" size="0.080000 0.080000" />
+    <ImageTarget name="tgsw" size="0.080000 0.080000" />
+    <ImageTarget name="stwg" size="0.080000 0.080000" />
+    <ImageTarget name="gwts" size="0.080000 0.080000" />
+    <ImageTarget name="play" size="0.250000 0.192184" />
+    <ImageTarget name="eat" size="0.250000 0.256850" />
+  </Tracking>
+</QCARConfig>
