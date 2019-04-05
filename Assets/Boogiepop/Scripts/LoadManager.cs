@@ -8,7 +8,7 @@ namespace Boogiepop
     /// <summary>
     /// 启动场景管理
     /// </summary>
-    public class LoadManger : MonoBehaviour
+    public class LoadManager : MonoBehaviour
     {
 
         /// <summary>

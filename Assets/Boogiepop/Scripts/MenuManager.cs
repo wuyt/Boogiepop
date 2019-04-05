@@ -6,7 +6,7 @@ namespace Boogiepop
     /// <summary>
     /// 菜单控制
     /// </summary>
-    public class MenuManger : MonoBehaviour
+    public class MenuManager : MonoBehaviour
     {
         /// <summary>
         /// 系统变量
