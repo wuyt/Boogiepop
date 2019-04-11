@@ -1152,7 +1152,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u6B22\u8FCE\u8FDB\u5165\u6E38\u620F\uFF0C\u8BF7\u626B\u63CF\u7167\u7247\u3002\n\u626B\u63CF\u56FE\u7247\u5730\u5740\uFF1A\nhttps://github.com/wuyt/Boogiepop"
+  m_Text: "\u6B22\u8FCE\u8FDB\u5165\u6E38\u620F\uFF0C\u8BF7\u626B\u63CF\u7167\u7247\u3002\n\u626B\u63CF\u56FE\u7247\u5730\u5740\uFF1A\nhttps://github.com/wuyt/Boogiepop/tree/master/pics"
 --- !u!222 &1939044521
 CanvasRenderer:
   m_ObjectHideFlags: 0

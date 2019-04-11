@@ -65,6 +65,11 @@ namespace Boogiepop
         {
             gameVariable.IsCompleteGame = false;
 
+            for (int i = 0; i < gameVariable.CompleteTypes.Length; i++)
+            {
+                gameVariable.CompleteTypes[i] = false;
+            }
+
             //重置完成后重启游戏
             SceneManager.LoadScene("Menu");
         }
