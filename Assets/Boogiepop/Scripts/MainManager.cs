@@ -650,6 +650,8 @@ namespace Boogiepop
         /// </summary>
         private void BackMenu()
         {
+            string scene = "Menu";
+
             //获取系统变量
             GameVariable gameVariable = FindObjectOfType<GameVariable>();
             gameVariable.IsCompleteGame = true;
@@ -664,9 +666,11 @@ namespace Boogiepop
                 {
                     gameVariable.CompleteTypes[i] = false;
                 }
+
+                scene = "egg";
             }
 
-            SceneManager.LoadScene("Menu");
+            SceneManager.LoadScene(scene);
         }
         #endregion
     }

@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Boogiepop/Scenes/Main.unity
     guid: f5fc15a5469b34d4c9fec036416f3167
+  - enabled: 1
+    path: Assets/Boogiepop/egg/egg.unity
+    guid: 212f2c081bf27a34c8da3a25958350fd
   m_configObjects: {}
